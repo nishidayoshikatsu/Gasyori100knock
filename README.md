@@ -1,5 +1,15 @@
 # 画像処理100本ノック!!
 
+## はじめに(NSD追記)
+
+このリポジトリは、
+> https://github.com/yoyoyo-yo/Gasyori100knock
+のリポジトリをフォークしたものです。
+自分で書いたコードを<b>my solutions</b>フォルダにpushしてあります〜
+
+画像処理100本ノックを作成していただいたyoyoyo-yoさん、本当にありがとうございます！
+精進します！！
+
 ***English is here*** (KuKuXia translates into English)
 
 > https://github.com/KuKuXia/Image_Processing_100_Questions
