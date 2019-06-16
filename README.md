@@ -3,7 +3,7 @@
 ## はじめに(NSD追記)
 
 このリポジトリは、
-> https://github.com/yoyoyo-yo/Gasyori100knock
+[元のリポジトリ](https://github.com/yoyoyo-yo/Gasyori100knock)
 のリポジトリをフォークしたものです。
 自分で書いたコードを<b>my solutions</b>フォルダにpushしてあります〜
 
